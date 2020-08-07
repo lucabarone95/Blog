@@ -4,6 +4,6 @@ Welcome to my repo
 
 ToDo:
 
-1.Create Blog
+1. Create Blog
 
-2.Learn Markdown
+2. Learn Markdown
