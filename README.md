@@ -1,4 +1,4 @@
-# my-repo
+# My Blog
 
 Welcome to my repo
 
