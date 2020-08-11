@@ -11,10 +11,6 @@ layout: default
 
 
   {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">About me:</h2>
-  <p>Luca 25 yo, computer engineering.</p>
-  <img src="/images/pic.jpg" alt="my pic">
-
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
   <ul class="post-list">
     {%- for post in site.posts -%}
