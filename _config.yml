@@ -29,6 +29,17 @@ github_username:  lucabarone95
 
 github: [metadata]
 
+
+# Optional parameters
+author: Luca Barone
+linkedin_username: lucabarone95
+instagram_username: luca_barone_95
+
+# New fields (custom)
+copyright: LucaBlog
+title-logo: /images/me.png
+
+
 # Build settings
 #Removed minima theme because now is regulae
 # theme: minima
